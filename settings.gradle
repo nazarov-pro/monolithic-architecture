@@ -1,0 +1,10 @@
+rootProject.name = 'app'
+include 'common-db'
+include 'common-client'
+include 'common-util'
+include 'common-threadpool'
+include 'main-api'
+include 'main-web'
+include 'admin-api'
+include 'admin-web'
+
